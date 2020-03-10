@@ -1,1 +1,0 @@
-<?php echo "Welcome Koding Malam GitHub.io";  ?>
